@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/contact-manager/static/js/main.2ee5100d.js",
+    "index.html": "/contact-manager/index.html",
+    "main.2ee5100d.js.map": "/contact-manager/static/js/main.2ee5100d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2ee5100d.js"
+  ]
+}
